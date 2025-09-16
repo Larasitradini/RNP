@@ -1,0 +1,4 @@
+Name	Longitude	Latitude	Altitude (m)	Comments	Support Height (m)	Support Type	Alias	Max S1 interface throughput (DL) (kbps)	Max S1 interface throughput (UL) (kbps)	
+Purus	100,351395607	-0,939202309	[2]		50			950000	950000	
+Purus 1	100,359556776	-0,930285097	[4]		50			950000	950000	
+Purus 2	100,362899661	-0,94162245	[6]		50			950000	950000	
